@@ -25,3 +25,5 @@ I am a dedicated and very efficient developer. I have relevant certifications in
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/felipeOliveira-1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/felipe-de-oliveira-s/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+<a href="https://app.daily.dev/H4ck3rTr4d3r"><img src="https://api.daily.dev/devcards/13d6a6a2cdf6428689e96843a3204ad4.png?r=mit" width="400" alt="Felipe de Oliveira Silva's Dev Card"/></a>
