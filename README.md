@@ -1,8 +1,8 @@
 Hi 👋 My name is Felipe
 =======================
 
-Dev
------------------
+Full Stack Software Developer
+-----------------------------
 
 I am a dedicated and very efficient developer. I have relevant certifications in the technology area. I seek to improve my skills in DevOps and Software Engineering initiatives.
 
