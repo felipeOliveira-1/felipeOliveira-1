@@ -14,8 +14,10 @@ I am a dedicated and very efficient developer. I have relevant certifications in
 ### Certificates
 
 <p align="left">
-<a href="https://www.coursera.org/account/accomplishments/professional-cert/4ZSXDWNT6D7Z" target="_blank" rel="noreferrer"><img src="https://felipesilva.tech/assets/images/gallery01/6efa448c.png?v=1c729b5c" width="180" height="180" alt="FullStack" /></a>
-  <a href="https://www.coursera.org/account/accomplishments/specialization/59AWCNW9V99P" target="_blank" rel="noreferrer"><img src="https://felipesilva.tech/assets/images/gallery01/e804f218.png?v=1c729b5c" width="180" height="180" alt="DevOps" /></a>
+<a href="https://www.coursera.org/account/accomplishments/professional-cert/4ZSXDWNT6D7Z" target="_blank" rel="noreferrer"><img src="https://felipesilva.tech/assets/images/gallery01/6efa448c.png?v=1c729b5c" width="185" height="185" alt="FullStack" /></a>
+  <a href="https://www.coursera.org/account/accomplishments/specialization/59AWCNW9V99P" target="_blank" rel="noreferrer"><img src="https://felipesilva.tech/assets/images/gallery01/e804f218.png?v=1c729b5c" width="185" height="185" alt="DevOps" /></a>
+   <a href="https://www.coursera.org/account/accomplishments/verify/M5AK958ZW27L" target="_blank" rel="noreferrer"><img src="https://felipesilva.tech/assets/images/gallery01/26668dee.png?v=1c729b5c" width="185" height="185" alt="DevOps" /></a>
+   <a href="https://www.coursera.org/account/accomplishments/verify/5E33JTQYMD68" target="_blank" rel="noreferrer"><img src="https://felipesilva.tech/assets/images/gallery01/f5353e99.png?v=1c729b5c" width="185" height="185" alt="DevOps" /></a>
 </p>
 
 
