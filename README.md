@@ -11,6 +11,14 @@ I am a dedicated and very efficient developer. I have relevant certifications in
 * ✉️  You can contact me at [contato@felipesilva.tech](mailto:contato@felipesilva.tech)
 * 🧠  I'm learning Next.Js
 
+### Certificates
+
+<p align="left">
+<a href="https://www.coursera.org/account/accomplishments/professional-cert/4ZSXDWNT6D7Z" target="_blank" rel="noreferrer"><img src="https://felipesilva.tech/assets/images/gallery01/6efa448c.png?v=1c729b5c" width="180" height="180" alt="FullStack" /></a>
+  <a href="https://www.coursera.org/account/accomplishments/specialization/59AWCNW9V99P" target="_blank" rel="noreferrer"><img src="https://felipesilva.tech/assets/images/gallery01/e804f218.png?v=1c729b5c" width="180" height="180" alt="DevOps" /></a>
+</p>
+
+
 ### Skills
 
 <p align="left">
