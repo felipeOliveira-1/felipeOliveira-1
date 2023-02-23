@@ -4,7 +4,7 @@ Hi 👋 My name is Felipe or Yosef
 Full Stack Software Developer
 -----------------------------
 
-I am a dedicated and very efficient developer. I have relevant certifications in the technology area. I seek to improve my skills in DevOps and Software Engineering initiatives.
+I am a dedicated and very efficient developer. I have relevant certifications in the technology area. I always seek to improve my skills as a programmer.
 
 * 🌍  I'm based in Sao Paulo
 * ✉️  You can contact me at [contato@felipesilva.tech](mailto:contato@felipesilva.tech)
