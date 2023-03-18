@@ -1,4 +1,4 @@
-Hi 👋 My name is Felipe or Yosef
+Hi 👋 My name is Felipe
 =======================
 
 Full Stack Software Developer
