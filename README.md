@@ -13,10 +13,10 @@ I am a dedicated and very efficient developer. I have relevant certifications in
 ### Certificates
 
 <p align="left">
-<a href="https://www.coursera.org/account/accomplishments/professional-cert/4ZSXDWNT6D7Z" target="_blank" rel="noreferrer"><img src="https://felipesilva.carrd.co/assets/images/gallery01/6efa448c.png?v=2ccbb92b" width="185" height="185" alt="FullStack" /></a>
-<a href="https://www.coursera.org/account/accomplishments/specialization/59AWCNW9V99P" target="_blank" rel="noreferrer"><img src="https://felipesilva.carrd.co/assets/images/gallery01/e804f218.png?v=2ccbb92b" width="185" height="185" alt="DevOps" /></a>
-<a href="https://www.coursera.org/account/accomplishments/verify/M5AK958ZW27L" target="_blank" rel="noreferrer"><img src="https://felipesilva.carrd.co/assets/images/gallery01/26668dee.png?v=2ccbb92b" width="185" height="185" alt="WebDev" /></a>
-<a href="https://www.coursera.org/account/accomplishments/verify/5E33JTQYMD68" target="_blank" rel="noreferrer"><img src="https://felipesilva.carrd.co/assets/images/gallery01/f5353e99.png?v=2ccbb92b" width="185" height="185" alt="Python_Data_Science" /></a>
+<a href="https://www.coursera.org/account/accomplishments/professional-cert/4ZSXDWNT6D7Z" target="_blank" rel="noreferrer"><img src="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=173,h=182,fit=crop/YBgEyWxyOWC5zP2j/python-YZ9MQJbGKRt9BVOn.png" width="185" height="185" alt="Python" /></a>
+<a href="https://www.coursera.org/account/accomplishments/specialization/59AWCNW9V99P" target="_blank" rel="noreferrer"><img src="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=179,h=182,fit=crop/YBgEyWxyOWC5zP2j/fullstack-YNqDbxyNoqIWypVZ.png" width="185" height="185" alt="FullStack" /></a>
+<a href="https://www.coursera.org/account/accomplishments/verify/M5AK958ZW27L" target="_blank" rel="noreferrer"><img src="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=173,h=168,fit=crop/YBgEyWxyOWC5zP2j/meta-m7V29nwP4LSyrgMO.png" width="185" height="185" alt="WebDev" /></a>
+<a href="https://www.coursera.org/account/accomplishments/verify/5E33JTQYMD68" target="_blank" rel="noreferrer"><img src="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=187,h=185,fit=crop/YBgEyWxyOWC5zP2j/devops-YX42V6aZeWHbB4R6.png" width="185" height="185" alt="DevOps" /></a>
 </p>
 
 
