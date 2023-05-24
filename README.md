@@ -8,7 +8,7 @@ I am a dedicated and very efficient developer. I have relevant certifications in
 
 * 🌍  I'm based in Sao Paulo
 * ✉️  You can contact me at [contato@felipesilva.tech](mailto:contato@felipesilva.tech)
-* 🧠  I'm learning more about prompt engineering
+* 🧠  I'm learning more about LangChain
 
 ### Certificates
 
