@@ -1,7 +1,7 @@
 Hi 👋 My name is Felipe
 =======================
 
-Full Stack Software Developer
+AI - Software Developer
 -----------------------------
 
 I am a dedicated and very efficient developer. I have relevant certifications in the technology area. I always seek to improve my skills as a programmer.
