@@ -13,12 +13,43 @@ I am a dedicated and very efficient developer. I have relevant certifications in
 ### Certificates
 
 <p align="left">
-<a href="https://courses.edx.org/certificates/b16d3caf284d4ea4834d0d498841604d?_gl=1*cefdsr*_ga*MjExMDg1OTQxMy4xNjkwNzQ0MDEz*_ga_D3KS4KMDT0*MTY5MTE1MDQ0MS4xMi4wLjE2OTExNTA0NDEuNjAuMC4w" target="_blank" rel="noreferrer"><img src="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=194,h=187,fit=crop/YBgEyWxyOWC5zP2j/broches-certificados-Yle2jgQgzDhoG6La.png" width="185" height="185" alt="Python" /></a>
-<a href="https://www.coursera.org/account/accomplishments/professional-cert/4ZSXDWNT6D7Z" target="_blank" rel="noreferrer"><img src="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=173,h=182,fit=crop/YBgEyWxyOWC5zP2j/python-YZ9MQJbGKRt9BVOn.png" width="185" height="185" alt="Python" /></a>
-<a href="https://www.coursera.org/account/accomplishments/specialization/59AWCNW9V99P" target="_blank" rel="noreferrer"><img src="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=179,h=182,fit=crop/YBgEyWxyOWC5zP2j/fullstack-YNqDbxyNoqIWypVZ.png" width="185" height="185" alt="FullStack" /></a>
-<a href="https://www.coursera.org/account/accomplishments/verify/M5AK958ZW27L" target="_blank" rel="noreferrer"><img src="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=173,h=168,fit=crop/YBgEyWxyOWC5zP2j/meta-m7V29nwP4LSyrgMO.png" width="185" height="185" alt="WebDev" /></a>
-<a href="https://www.coursera.org/account/accomplishments/verify/5E33JTQYMD68" target="_blank" rel="noreferrer"><img src="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=187,h=185,fit=crop/YBgEyWxyOWC5zP2j/devops-YX42V6aZeWHbB4R6.png" width="185" height="185" alt="DevOps" /></a>
+  <!-- Certificado AI-Powered Software and System Design -->
+  <a href="https://www.coursera.org/account/accomplishments/verify/K3OJR3TODF1E" target="_blank" rel="noreferrer">
+    <img src="https://assets.zyrosite.com/YBgEyWxyOWC5zP2j/ai-powered-software-and-system-design-AVL1QveX7rTDeVQv.png" 
+         width="185" height="185" alt="Certificado AI-Powered Software and System Design" />
+  </a>
+
+  <!-- Certificado Python (edX) -->
+  <a href="https://courses.edx.org/certificates/b16d3caf284d4ea4834d0d498841604d?_gl=1*cefdsr*_ga*MjExMDg1OTQxMy4xNjkwNzQ0MDEz*_ga_D3KS4KMDT0*MTY5MTE1MDQ0MS4xMi4wLjE2OTExNTA0NDEuNjAuMC4w" target="_blank" rel="noreferrer">
+    <img src="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=194,h=187,fit=crop/YBgEyWxyOWC5zP2j/broches-certificados-Yle2jgQgzDhoG6La.png" 
+         width="185" height="185" alt="Python" />
+  </a>
+
+  <!-- Certificado Python (Coursera) -->
+  <a href="https://www.coursera.org/account/accomplishments/professional-cert/4ZSXDWNT6D7Z" target="_blank" rel="noreferrer">
+    <img src="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=173,h=182,fit=crop/YBgEyWxyOWC5zP2j/python-YZ9MQJbGKRt9BVOn.png" 
+         width="185" height="185" alt="Python" />
+  </a>
+
+  <!-- Certificado FullStack -->
+  <a href="https://www.coursera.org/account/accomplishments/specialization/59AWCNW9V99P" target="_blank" rel="noreferrer">
+    <img src="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=179,h=182,fit=crop/YBgEyWxyOWC5zP2j/fullstack-YNqDbxyNoqIWypVZ.png" 
+         width="185" height="185" alt="FullStack" />
+  </a>
+
+  <!-- Certificado Web Development (Meta) -->
+  <a href="https://www.coursera.org/account/accomplishments/verify/M5AK958ZW27L" target="_blank" rel="noreferrer">
+    <img src="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=173,h=168,fit=crop/YBgEyWxyOWC5zP2j/meta-m7V29nwP4LSyrgMO.png" 
+         width="185" height="185" alt="WebDev" />
+  </a>
+
+  <!-- Certificado DevOps -->
+  <a href="https://www.coursera.org/account/accomplishments/verify/5E33JTQYMD68" target="_blank" rel="noreferrer">
+    <img src="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=187,h=185,fit=crop/YBgEyWxyOWC5zP2j/devops-YX42V6aZeWHbB4R6.png" 
+         width="185" height="185" alt="DevOps" />
+  </a>
 </p>
+
 
 ### Skilss
 
